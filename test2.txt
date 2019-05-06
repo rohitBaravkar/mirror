@@ -1,0 +1,1 @@
+test 2  to check file copied automatically or not
